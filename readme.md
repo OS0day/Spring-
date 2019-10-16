@@ -8,7 +8,7 @@
 
 [![weixin](assets/weixin.png)](https://github.com/OS0day/Mystar/blob/master/assets/weixin.png)
 
-二、声明
+二、声明 Statement
 
 大家在转载和使用我的文档的时候，必须标明出处以及的本人的相关消息
 
